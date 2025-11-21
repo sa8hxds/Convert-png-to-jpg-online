@@ -1,7 +1,8 @@
 Convert PNG images to JPG instantly using our free online tool.
 
 👉 Use the tool here:
-https://convertpngtojpg.in/
+<a href="https://convertpngtojpg.in/" target="_blank">Convert PNG to JPG Online</a>
+
 
 Features
 
@@ -41,4 +42,3 @@ JPG to PNG
 
 JPG to WEBP
 
-Visit all tools: https://convertpngtojpg.in/
